@@ -23,3 +23,4 @@ Desktop.ini
 *.log
 *.tmp
 *.temp
+/.agent
